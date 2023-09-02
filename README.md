@@ -1,2 +1,2 @@
 # LeetGrind
-Daily leetcode grind..
+leetcode grind..
